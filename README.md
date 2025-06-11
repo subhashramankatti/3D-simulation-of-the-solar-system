@@ -49,7 +49,7 @@ This project is a 3D simulation of the solar system built as a web application. 
 
 
  ## Deployment
-This project can be easily deployed on Vercel or any other hosting platform that 
+This project can be easily deployed on Vercel or any other hosting platform that- https://3d-simulation-of-the-solar-system.netlify.app/
 
 ## License
 This project is licensed under the MIT License.
