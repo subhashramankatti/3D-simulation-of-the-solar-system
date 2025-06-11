@@ -47,9 +47,8 @@ This project is a 3D simulation of the solar system built as a web application. 
 - Open your browser and go to `http://localhost:3000` to view the simulation.
 - Use the UI controls to navigate through the solar system and explore different planets.
 
-## Contributing
-Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
-#Deployment
+
+ ## Deployment
 This project can be easily deployed on Vercel or any other hosting platform that 
 
 ## License
